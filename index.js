@@ -1,0 +1,1 @@
+export {default as scrollsync} from "./src/scrollsync";

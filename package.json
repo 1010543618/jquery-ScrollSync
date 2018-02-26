@@ -1,0 +1,27 @@
+{
+  "name": "jquery-scrollsync",
+  "version": "1.0.0",
+  "description": "A jQuery plug-in that synchronizes the scrolling of several containers with scrollbars, such as iframe.(It works like bidirectional bindings, which let containers' scrollTop and scrollLeft synchronous, and using conditional bidirectional bindings which can avoid cycle synchronizes.)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1010543618/jquery-ScrollSync.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1010543618/jquery-ScrollSync/issues"
+  },
+  "homepage": "https://github.com/1010543618/jquery-ScrollSync#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "rollup": "^0.56.2",
+    "jquery-smartresizeandscroll": "^1.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
