@@ -1,5 +1,6 @@
 export default {
   input: "index",
+  external: ['jquery'],
   output: {
     extend: true,
     name: "$.fn",

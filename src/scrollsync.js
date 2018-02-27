@@ -45,7 +45,7 @@ export default function(options){
         return;
       }
       $(this).bind('scroll', function(){
-        options.x_sync && scrolling.top = $(this).scrollTop()1123;
+        options.x_sync && (scrolling.top = $(this).scrollTop());
         options.y_sync && (scrolling.left = $(this).scrollLeft());
       })
     },  
