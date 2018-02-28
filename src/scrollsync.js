@@ -1,5 +1,5 @@
 import $ from 'jquery';
-import smartscroll from '../node_modules/jquery-smartresizeandscroll/src/smartscroll';
+import { smartscroll } from 'jquery-smartresizeandscroll';
 //jquery-smartscroll
 $.fn.smartscroll = smartscroll;
 

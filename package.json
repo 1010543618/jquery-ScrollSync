@@ -18,8 +18,9 @@
   "homepage": "https://github.com/1010543618/jquery-ScrollSync#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "jquery-smartresizeandscroll": "^1.0.0",
     "rollup": "^0.56.2",
-    "jquery-smartresizeandscroll": "^1.0.0"
+    "rollup-plugin-node-resolve": "^3.0.3"
   },
   "dependencies": {
     "jquery": "^3.3.1"
